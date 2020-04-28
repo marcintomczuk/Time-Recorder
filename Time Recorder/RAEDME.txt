@@ -1,0 +1,2 @@
+﻿To open the project double click on SimpleDB.xcodeproj file.
+It is required to have MacOS. 
